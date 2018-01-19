@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/asus/Desktop/C++/DS Second Project/adjList.h
+sstream
+-
+iostream
+-
+fstream
+-
+vector
+-
+
+C:/Users/asus/Desktop/C++/DS Second Project/adjMatrix.h
+sstream
+-
+iostream
+-
+fstream
+-
+vector
+-
+
+C:/Users/asus/Desktop/C++/DS Second Project/bubbleSort.h
+
+C:/Users/asus/Desktop/C++/DS Second Project/constantsCalculation.h
+
+C:/Users/asus/Desktop/C++/DS Second Project/constantsClass.h
+
+C:/Users/asus/Desktop/C++/DS Second Project/insertionSort.h
+
+C:/Users/asus/Desktop/C++/DS Second Project/main.cpp
+iostream
+-
+constantsClass.h
+C:/Users/asus/Desktop/C++/DS Second Project/constantsClass.h
+adjMatrix.h
+C:/Users/asus/Desktop/C++/DS Second Project/adjMatrix.h
+adjList.h
+C:/Users/asus/Desktop/C++/DS Second Project/adjList.h
+constantsCalculation.h
+C:/Users/asus/Desktop/C++/DS Second Project/constantsCalculation.h
+quickSort.h
+C:/Users/asus/Desktop/C++/DS Second Project/quickSort.h
+insertionSort.h
+C:/Users/asus/Desktop/C++/DS Second Project/insertionSort.h
+mergeSort.h
+C:/Users/asus/Desktop/C++/DS Second Project/mergeSort.h
+bubbleSort.h
+C:/Users/asus/Desktop/C++/DS Second Project/bubbleSort.h
+fstream
+-
+vector
+-
+
+C:/Users/asus/Desktop/C++/DS Second Project/mergeSort.h
+
+C:/Users/asus/Desktop/C++/DS Second Project/quickSort.h
+

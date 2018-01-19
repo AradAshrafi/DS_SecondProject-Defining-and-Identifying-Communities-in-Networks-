@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DS_Second_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testt">
+				<Option output="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/testt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 testt"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testt/fast">
+				<Option output="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/testt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 testt/fast"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/asus/.CLion2016.3/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/InsertionSort.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/adjList.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/adjMatrix.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/bubbleSort.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/cmake-build-debug/DFS.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/constantsCalculation.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/constantsClass.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/mergeSort.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/optimumBubble.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/quickSort.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/test.cpp">
+			<Option target="testt"/>
+		</Unit>
+		<Unit filename="C:/Users/asus/Desktop/C++/DS Second Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

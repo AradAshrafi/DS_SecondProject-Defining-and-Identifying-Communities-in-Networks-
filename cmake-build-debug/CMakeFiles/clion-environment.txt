@@ -1,0 +1,2 @@
+ToolSet: w64 5.0@C:\Users\asus\.CLion2016.3\mingw\mingw32
+CMake: 3.6.3@D:\programs\C jet brains\CLion\CLion 2016.3.2\bin\cmake\bin\cmake.exe
